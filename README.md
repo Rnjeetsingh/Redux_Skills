@@ -1,0 +1,1 @@
+Here I prepare Redux for Interview.
